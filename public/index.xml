@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>St. Louis Urban Prairie Project</title>
-    <link>https://chris-prener.github.io/vacancy/</link>
+    <link>/vacancy/</link>
     <description>Recent content on St. Louis Urban Prairie Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chris-prener.github.io/vacancy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/vacancy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Background</title>
-      <link>https://chris-prener.github.io/vacancy/background/</link>
+      <title>2017 Analysis</title>
+      <link>/vacancy/vacancy17/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/vacancy/background/</guid>
-      <description>.</description>
+      <guid>/vacancy/vacancy17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background</title>
+      <link>/vacancy/background/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/vacancy/background/</guid>
+      <description>Two related demographic phenomena have helped define contemporary St. Louis: population loss and segregation. The plot above shows the significant drop in population the city has experienced since 1950, when it experienced a peak population 856,796. As of 2016, the population sat at 311,404. This 64% decline in the city&amp;rsquo;s population has left a hollowed out urban space, with streets and neighborhoods designed to accommodate hundreds of thousands more residents than currently exist in the city.</description>
     </item>
     
     <item>
       <title>Research Team</title>
-      <link>https://chris-prener.github.io/vacancy/team/</link>
+      <link>/vacancy/team/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/vacancy/team/</guid>
+      <guid>/vacancy/team/</guid>
       <description>Principal Investigator Christopher Prener, Ph.D. is an Assistant Professor in the Department of Sociology and Anthropology at Saint Louis University. In addition to spearheading the Urban Praries project and its &amp;ldquo;cousin&amp;rdquo; the Streets Not Thru project, he is currently working on a book manuscript entitled Medicine at the Margins. The book examines the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders.</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>https://chris-prener.github.io/vacancy/license/</link>
+      <link>/vacancy/license/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/vacancy/license/</guid>
+      <guid>/vacancy/license/</guid>
       <description>Copyright &amp;copy; 2017-2018 Christopher G. Prener
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 This is a human-readable summary of (and not a substitute for) the license.

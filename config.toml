@@ -99,6 +99,11 @@ paginate = 10
 	name = "background"
 	url  = "/background"
 	weight = 20
+
+[[menu.main]]
+	name = "2017 data"
+	url  = "/vacancy17"
+	weight = 21
 	
 [[menu.main]]
 	name = "research team"
