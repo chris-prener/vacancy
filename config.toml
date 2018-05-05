@@ -1,0 +1,94 @@
+baseurl = "https://chris-prener.github.io/vacancy/"
+languageCode = "en-us"
+title = "St. Louis Urban Prairie Project"
+theme = "hugo-strata-theme"
+disqusShortname = ""
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 10
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Christopher Prener, Ph.D."
+	description = "Research on the Pervasiveness of Vacant Land and Buildings in St. Louis"
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add read time estimates in the format "X min read"
+	show_read_time = false
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+
+	# Ignore files
+	ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		avatar = ""
+		
+		# Use Markdown to format the string. This works nearly all over the theme
+		bio = "Urban Prairies: \rVacant Land in St. Louis"
+		
+		# The icons will be shown if you enter your username
+		twitter = ""
+		github = "chris-prener"
+		gitlab = ""
+		dribbble = ""
+		facebook = ""
+		googleplus = ""
+		flickr = ""
+		linkedin = ""
+		
+		# homepage url
+		home="https://chris-prener.github.io/"
+		
+		copyright = [
+			"&copy; 2017-2018 [CC-BY-SA 4.0](/barriers/license)",
+			"Design: [HTML5 UP](//html5up.net)",
+		]
+
+  [params.avatar]
+    hide = true
+    
+  [params.rss]
+    hide = true
+
+	[params.about]
+		hide  = false
+		title = "Research on the Pervasiveness of Vacant Land and Buildings in St. Louis, Missouri"
+		content = "The City of St. Louis (which is an independent city separate from St. Louis County) has a..."
+
+
+	[params.portfolio]
+		hide  = true
+		title = "Recent Work"
+
+	[params.recentposts]
+		hide  = true
+		title = "recent articles"
+
+	[params.contact]
+		hide  = true
+		email = "chris.prener@slu.edu"
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "home"
+	url  = "/"
+	weight = 10
+
+[[menu.main]]
+	name = "background"
+	url  = "/background"
+	weight = 20
+	
+[[menu.main]]
+	name = "research team"
+	url  = "/team"
+	weight = 44
+	
