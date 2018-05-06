@@ -1,6 +1,6 @@
 baseurl = "https://chris-prener.github.io/vacancy/"
 languageCode = "en-us"
-title = "St. Louis Urban Prairie Project"
+title = "Urban Prairies: Vacant Land in St. Louis"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
@@ -61,7 +61,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Research on the Pervasiveness of Vacant Land and Buildings in St. Louis, Missouri"
-		content = "The City of St. Louis (which is an independent city separate from St. Louis County) has a [well documented](http://www.stltoday.com/news/local/metro/amid-drumbeat-from-falling-bricks-st-louis-to-ramp-up/article_1e237c9c-95e7-5c01-8d0c-92a2fe1a5c78.html) pattern of extensive vacancy. What is less well documented, however, is the volume of vacancy in the city. A variety of estimates have been made in the last several decades. Most recently, the Mayor's office release an estimate of at least 24,000 vacant properties as part of the City's [Preliminary Resilience Assessment](https://www.stlouis-mo.gov/government/departments/mayor/initiatives/resilience/documents/upload/PRA1001_Report_Inside_10.pdf). Our *Urban Prairies* project aims to produce estimates of vacancy at the parcel level in St. Louis. We are particularly interested in how vacant land clusters spatially to produce areas in St. Louis that appear to 'return to nature'."
+		content = "The City of St. Louis (which is an independent city separate from St. Louis County) has a [well documented](http://www.stltoday.com/news/local/metro/amid-drumbeat-from-falling-bricks-st-louis-to-ramp-up/article_1e237c9c-95e7-5c01-8d0c-92a2fe1a5c78.html) pattern of extensive vacancy. What is not well known, however, is the volume of vacancy in the city. A variety of estimates have been made in the last several decades. Most recently, the Mayor's office release an estimate of at least 24,000 vacant properties as part of the City's [Preliminary Resilience Assessment](https://www.stlouis-mo.gov/government/departments/mayor/initiatives/resilience/documents/upload/PRA1001_Report_Inside_10.pdf). Our *Urban Prairies* project aims to produce estimates of vacancy at the parcel level in St. Louis. We are particularly interested in how vacant land clusters spatially to produce areas in St. Louis that appear to 'return to nature'."
 
 
 		[params.portfolio]
@@ -70,14 +70,14 @@ paginate = 10
 
     		# The images and thumbnails are stored under static/images
     		[[params.portfolio.gallery]]
-    			image = "thumbs/01.jpg"
-    			thumb = "fulls/01.jpg"
+    			image = "fulls/01.jpg"
+    			thumb = "thumbs/01_thumb.jpg"
     			title = "Forthcoming *Journal of Urban Affairs* Article"
     			description = "Initial analysis of prarie land, available on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH)"
 
     		[[params.portfolio.gallery]]
-    			image = "thumbs/01.jpg"
-    			thumb = "fulls/01.jpg"
+    			image = "fulls/02.jpg"
+    			thumb = "thumbs/02_thumb.jpg"
     			title = "2017 Vacant Parcel Data"
     			description = "Data used in our initial publication, available on [GitHub](https://github.com/chris-prener/vacancy-data)"
 
