@@ -1,7 +1,7 @@
 ---
 date: 2018-05-04
 title: 2017 Analysis
-weight: 20
+weight: 22
 ---
 
-
+Our initial analysis
