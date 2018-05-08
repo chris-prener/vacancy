@@ -12,21 +12,31 @@
     
     
     <item>
-      <title>2017 Analysis</title>
-      <link>/vacancy/vacancy17/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/vacancy/vacancy17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Background</title>
       <link>/vacancy/background/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/vacancy/background/</guid>
       <description>Two related demographic phenomena have helped define contemporary St. Louis: population loss and segregation. The plot above shows the significant drop in population the city has experienced since 1950, when it experienced a peak population 856,796. As of 2016, the population sat at 311,404. This 64% decline in the city&amp;rsquo;s population has left a hollowed out urban space, with streets and neighborhoods designed to accommodate hundreds of thousands more residents than currently exist in the city.</description>
+    </item>
+    
+    <item>
+      <title>approach</title>
+      <link>/vacancy/approach/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/vacancy/approach/</guid>
+      <description>The data used to develop our initial listof vacant properties was culled from a number of different sources. The first three were considered primary indicators - if one or more were true, the property was considered vacant in both the low and the high estimates.
+ Table 1: Data Sources  Indicator Source Description    (1) Vacant Lot (A) Property Ownership Database Represents the City’s assessment of the property as a vacant lot.</description>
+    </item>
+    
+    <item>
+      <title>2017 Analysis</title>
+      <link>/vacancy/vacancy17/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/vacancy/vacancy17/</guid>
+      <description>Our initial analysis</description>
     </item>
     
     <item>
