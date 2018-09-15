@@ -25,4 +25,4 @@ Founded in 1818, [Saint Louis University](http://wwww.slu.edu) is one of the nat
 This website is built with the `R` package [Blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io) using a [fork](https://github.com/chris-prener/hugo-strata-theme) of the [Strata](https://github.com/digitalcraftsman/hugo-strata-theme) theme. 
 
 ### Image credits
-All imagery used on this site, including photos, maps, and graphics, is the work of [Christopher Prener](https://chris-prener.github.io).
+All imagery used on this site, including photos, maps, and graphics, is the work of [Christopher Prener](https://chris-prener.github.io). The only exception is the media photo on the front page, which is the work of [Ali Shah Lakhani](https://unsplash.com/@lakhani).
