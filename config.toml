@@ -83,6 +83,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     			title = "2017 Vacant Parcel Data"
     			description = "Data used in our initial publication, available on [GitHub](https://github.com/chris-prener/vacancy-data), [licensed for re-use](https://github.com/chris-prener/vacancy-data/blob/master/LICENSE), and citeable with [Zenodo](https://doi.org/10.5281/zenodo.1241429)"
 
+        [[params.portfolio.gallery]]
+    			image = "fulls/03.jpg"
+    			thumb = "thumbs/03_thumb.jpg"
+    			title = "Media"
+    			description = "Our data was recently featured in a [St. Louis Post-Dispatch](https://www.stltoday.com/news/local/metro/how-many-vacant-properties-does-st-louis-actually-have/article_c18e3864-7c16-5a3d-a3a3-cc747d40d435.html) as part of a [series](https://www.stltoday.com/news/local/metro/tipping-point-st-louis-struggles-to-keep-up-with-rising/article_fb0c5dd4-bcfa-588d-b2e2-301abbc0a728.html) documenting the effects of vacancy in St. Louis."
+
 	[params.recentposts]
 		hide  = true
 		title = "recent articles"
