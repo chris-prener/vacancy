@@ -54,6 +54,6 @@ Chris is planning to continue to carry this work forward with three goals:
     * uses the [stlvacancy.com's](http://stlvacancy.com) to add additional indicators of vacancy
     * addresses issues with the Assessor's Office "vacant lot" indicator
     * uses a fully transparent code stack that allows for replication of estimates at a much higher frequency
-2. Evaluate the impact of Citizens' Service Bureau data on our estimate of vacancy further. He is interested in understanding which properties attract attention of the CSB and which do not, and also model the likelihood of vacancy given CSB calls but absent other indicators of vacancy.
+2. Evaluate the impact of Citizens' Service Bureau data on our estimate of vacancy further. Chris is interested in understanding which properties attract attention of the CSB and which do not, and also model the likelihood of vacancy given CSB calls but absent other indicators of vacancy.
 
-3. Explore the financial aspect of vacancy in St. Louis. What types of entities own properties that are vacant? Where are those entities based? To what extent are there national and regional flows of capital into St. Louis vacant properties?
+3. Explore the financial aspect of vacancy in St. Louis. Chris wants to explore what types of entities own properties that are vacant? Where are those entities based? To what extent are there national and regional flows of capital into St. Louis vacant properties?
