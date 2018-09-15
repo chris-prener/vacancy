@@ -75,13 +75,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     			image = "fulls/01.jpg"
     			thumb = "thumbs/01_thumb.jpg"
     			title = "Forthcoming *Journal of Urban Affairs* Article"
-    			description = "Initial analysis of prarie land, available on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH)"
+    			description = "Initial analysis of prarie land, available on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH) without restriction and from [*JUA*](https://www.tandfonline.com/doi/abs/10.1080/07352166.2018.1474079?journalCode=ujua20) for readers with an institutional affiliation"
 
     		[[params.portfolio.gallery]]
     			image = "fulls/02.jpg"
     			thumb = "thumbs/02_thumb.jpg"
     			title = "2017 Vacant Parcel Data"
-    			description = "Data used in our initial publication, available on [GitHub](https://github.com/chris-prener/vacancy-data)"
+    			description = "Data used in our initial publication, available on [GitHub](https://github.com/chris-prener/vacancy-data), [licensed for re-use](https://github.com/chris-prener/vacancy-data/blob/master/LICENSE), and citeable with [Zenodo](https://doi.org/10.5281/zenodo.1241429)"
 
 	[params.recentposts]
 		hide  = true
@@ -103,14 +103,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	weight = 20
 
 [[menu.main]]
-	name = "approach"
-	url  = "/approach"
+	name = "2017 approach"
+	url  = "/approach17"
 	weight = 21
 
 [[menu.main]]
 	name = "2017 analysis"
 	url  = "/vacancy17"
 	weight = 22
+
+[[menu.main]]
+	name = "faq"
+	url  = "/faq"
+	weight = 40
 	
 [[menu.main]]
 	name = "research team"

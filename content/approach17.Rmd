@@ -1,0 +1,46 @@
+---
+date: 2018-05-04
+title: "2017 approach"
+weight: 21
+---
+
+Data used to develop [our initial list of vacant properties](https://github.com/chris-prener/vacancy-data) was culled from a number of different sources. The first three were considered **primary indicators** - if one or more were true, the property was considered vacant in both the low and the high estimates. 
+
+The remaining five indicators were what we refer to as **secondary indicators**. These were drawn from a mix of data sources, all of which were longitudinal in nature. The database with the narrowest range of dates, the building permits data, began in 1992. Unless otherwise noted, all other data sources were filtered so that observations before January 1, 1992, were removed.
+
+Given the varying quality of St. Louis's data, we felt that circumspection was warranted with our analyses. The low estimate was a more conservative estimate that included any parcel that had a positive primary indicator or at least two separate positive secondary indicators. The high estimate was a less conservative estimate that had a positive primary indicator or at least one positive secondary indicator.
+
+```{r, echo = FALSE}
+data <- data.frame(
+  Indicator = c("(1) Vacant Lot", 
+                "(2) Land Reutilization Authority (LRA) Property",
+                "(3) Land Clearence for Redevelopment Authority (LCRA) Property",
+                "(4) Property condemned",
+                "(5) Vacant building survey completed",
+                "(6) Vacant building inspection completed",
+                "(7) Citizens’ Service Bureau calls for property",
+                "(8) Demolition permit completed"),
+  Source = c("(A) Property Ownership Database", 
+             "(A) Property Ownership Database and (B) LRA Sale Data",
+             "(A) Property Ownership Database",
+             "(C) Condemnation database, (D) Building inspection database, and (F) Building permit database",
+             "(D) Building inspection database and (F) Building permit database",
+             "(D) Building inspection database and (F) Building permit database",
+             "(E) Citizens’ Service Bureau calls database and (F) Building permit database",
+             "(F) Building permit database"),
+  Description = c("Represents the City's assessment of the property as a vacant lot.",
+                  "Combines data on property ownership with the LRA's own sales list to identify properties held in the City's land bank.",
+                  "Identifies properties held by the City's development agency.",
+                  "Identifies properties that have been condemned and that have not had a subsequent inspection",
+                  "Represents vacant properties that have been party of the city’s yearly survey of vacant buildings",
+                  "Identifies vacant buildings subject to ad hoc inspections",
+                  "Represents properties that have had calls made to the Citizens’ Service Bureau (St. Louis’s 3-1-1 system) regarding either vacant lot or vacant building conditions",
+                  "Identifies properties that have had demolition permits completed on a major residential or commercial structure"),
+  stringsAsFactors = FALSE
+)
+
+knitr::kable(
+  data, caption = "Data Sources"
+)
+```
+
