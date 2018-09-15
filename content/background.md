@@ -14,4 +14,4 @@ Many of these cities also share a legacy of pernicious racial residential segreg
 
 <img src="../images/africanAmericanMap.png" class="image fit">
 
-Our [initial analysis](/vacancy17/) of vacancy in St. Louis was desgined to understand the degree to which these demographic trends - population loss and the proportion of African American residents - accounted for variation in the proportion of a neighborhood that was vacant.
+Our [initial analysis](/vacancy17/) of vacancy in St. Louis was designed to understand the degree to which these demographic trends - population loss and the proportion of African American residents - accounted for variation in the proportion of a neighborhood that was vacant.
