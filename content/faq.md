@@ -42,7 +42,7 @@ Given what we noted above, it is almost certain that we have false positives in 
 
 ### What is missing from your data?
 
-Aside from the data sources that are not publicly available but are used in [stlvacancy.com's](http://stlvacancy.com) estimates (Forestry and Building Division data as well as tax delinquency data), we did not use occupancy permit data. These are now more readily available, however there are large chunks of data missing from the City's open data release. These allow a potentially better source of "recent activity" than building permits, and would allow us to trace occupancy of properties that are, for example, only vacant for temporary periods of time.
+Aside from the data sources that are not publicly available but are used in [stlvacancy.com's](http://stlvacancy.com) estimates (Forestry and Building Division data as well as tax delinquency data), we did not use occupancy permit data. These are now more readily available and allow a potentially better source of "recent activity" than building permits. These data would allow us to trace occupancy of properties that are, for example, only vacant for temporary periods of time.
 
 ### What are your next steps?
 
