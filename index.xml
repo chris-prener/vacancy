@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urban Prairies: Vacant Land in St. Louis</title>
-    <link>/vacancy/</link>
+    <link>https://chris-prener.github.io/vacancy/</link>
     <description>Recent content on Urban Prairies: Vacant Land in St. Louis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/vacancy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-prener.github.io/vacancy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>background</title>
-      <link>/vacancy/background/</link>
+      <link>https://chris-prener.github.io/vacancy/background/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/background/</guid>
+      <guid>https://chris-prener.github.io/vacancy/background/</guid>
       <description>Two related demographic phenomena have helped define contemporary St. Louis: population loss and segregation. The plot above shows the significant drop in population the city has experienced since 1950, when it experienced a peak population 856,796. As of 2016, the population sat at 311,404. This 64% decline in the city&amp;rsquo;s population has left a hollowed out urban space, with streets and neighborhoods designed to accommodate hundreds of thousands more residents than currently exist in the city.</description>
     </item>
     
     <item>
       <title>2017 approach</title>
-      <link>/vacancy/approach17/</link>
+      <link>https://chris-prener.github.io/vacancy/approach17/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/approach17/</guid>
+      <guid>https://chris-prener.github.io/vacancy/approach17/</guid>
       <description>Data used to develop our initial list of vacant properties was culled from a number of different sources. The first three were considered primary indicators - if one or more were true, the property was considered vacant in both the low and the high estimates.
 The remaining five indicators were what we refer to as secondary indicators. These were drawn from a mix of data sources, all of which were longitudinal in nature.</description>
     </item>
     
     <item>
       <title>2017 analysis</title>
-      <link>/vacancy/vacancy17/</link>
+      <link>https://chris-prener.github.io/vacancy/vacancy17/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/vacancy17/</guid>
+      <guid>https://chris-prener.github.io/vacancy/vacancy17/</guid>
       <description>When we analyzed the measures of vacancy produced using our approach for 2017, we found a total of 32,431 vacant parcels in the low estimate and 48,013 in the high estimate. These estimates were much higher than what had previously been documented (see our FAQ). We did not take steps to adjudicate which of the two estimates was &amp;ldquo;right&amp;rdquo;, but rather focused on the degree to which both estimates support our hypothesis of clustered vacancy in the city.</description>
     </item>
     
     <item>
       <title>frequently asked questions</title>
-      <link>/vacancy/faq/</link>
+      <link>https://chris-prener.github.io/vacancy/faq/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/faq/</guid>
+      <guid>https://chris-prener.github.io/vacancy/faq/</guid>
       <description>Why are your estimates higher than the city&amp;rsquo;s estimate of approximately 25,000 properties? Simply put, we do not know where this number of 25,000 came from. A number of media reports over the years have used it, and it is cited in informal conversation, but we have seen no documentation as to who produced this estimate or how it was derived. This makes it hard to conclusively say why our numbers are larger.</description>
     </item>
     
     <item>
       <title>Research Team</title>
-      <link>/vacancy/team/</link>
+      <link>https://chris-prener.github.io/vacancy/team/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/team/</guid>
+      <guid>https://chris-prener.github.io/vacancy/team/</guid>
       <description>Principal Investigator Christopher Prener, Ph.D. is an Assistant Professor in the Department of Sociology and Anthropology at Saint Louis University. In addition to spearheading the Urban Praries project and its &amp;ldquo;cousin&amp;rdquo; the Streets Not Thru project, he is currently working on a book manuscript entitled Medicine at the Margins. The book examines the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders.</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>/vacancy/license/</link>
+      <link>https://chris-prener.github.io/vacancy/license/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/vacancy/license/</guid>
+      <guid>https://chris-prener.github.io/vacancy/license/</guid>
       <description>Copyright &amp;copy; 2017-2018 Christopher G. Prener
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 This is a human-readable summary of (and not a substitute for) the license.
