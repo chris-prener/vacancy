@@ -17,17 +17,17 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		
 		<meta name="og:site_name" content="Urban Prairies: Vacant Land in St. Louis">
 		<meta name="og:title" content="frequently asked questions">
-		<meta name="og:url" content="https://chris-prener.github.io/vacancy/faq/">
+		<meta name="og:url" content="/vacancy/faq/">
 		
 		
 
 		<meta name="generator" content="Hugo 0.48" />
 
-		<!--[if lte IE 8]><script src='https://chris-prener.github.io/vacancy/js/ie/html5shiv.js'></script><![endif]-->
+		<!--[if lte IE 8]><script src='/vacancy/js/ie/html5shiv.js'></script><![endif]-->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
-		<link rel="stylesheet" href="https://chris-prener.github.io/vacancy/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="https://chris-prener.github.io/vacancy//css/ie8.css"><![endif]-->
+		<link rel="stylesheet" href="/vacancy/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="/vacancy//css/ie8.css"><![endif]-->
 
 		
 		
@@ -46,17 +46,17 @@ Vacant Land in St. Louis</h1>
 		<nav id="sidebar">
 			<ul>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/">home</a></li>
+				<li><a href="/vacancy/">home</a></li>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/background">background</a></li>
+				<li><a href="/vacancy/background">background</a></li>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/approach17">2017 approach</a></li>
+				<li><a href="/vacancy/approach17">2017 approach</a></li>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/vacancy17">2017 analysis</a></li>
+				<li><a href="/vacancy/vacancy17">2017 analysis</a></li>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/faq">faq</a></li>
+				<li><a href="/vacancy/faq">faq</a></li>
 			
-				<li><a href="https://chris-prener.github.io/vacancy/team">research team</a></li>
+				<li><a href="/vacancy/team">research team</a></li>
 			
 			</ul>
 		</nav>
@@ -106,9 +106,9 @@ Vacant Land in St. Louis</h1>
 
 <p>Our estimate of vacancy was derived completely from public data. Like most public data sources, the data the City releases on their <a href="https://www.stlouis-mo.gov/data/">open data website</a> has some issues. There are inconsistencies between different data sets in terms of how individual parcels are identified, and we spent a significant amount of time making sure that street addresses associated with parcels were matched to the <em>correct</em> parcel identification number (called a &ldquo;handle&rdquo;).</p>
 
-<p>Another issue, particularly with the Assessor&rsquo;s data, is that there are inconsistencies in how vacancy is defined. The <a href="/approach17">primary indicator</a> of vacancy, the vacant lot indicator, does include false positives. We knew when we did the initial analyses that properties along some railroad and interstate highway right-of-ways were identified as vacant, and have learned since that some parking lots are also labeled vacant in this data set.</p>
+<p>Another issue, particularly with the Assessor&rsquo;s data, is that there are inconsistencies in how vacancy is defined. The <a href="/approach17">primary indicator</a> of vacancy, the vacant lot indicator, does include false positives. We knew when we did the initial analyses that properties near or along some railroad and interstate highway right-of-ways identified as vacant. Given the data we had, there was not a clear way to determine which properties owned by, for example, the <a href="https://en.wikipedia.org/wiki/Terminal_Railroad_Association_of_St._Louis">Terminal Railroad Association</a> were vacant and which were along <em>active</em> railroad right-of-ways. More recently, we have been told that some parking lots may actually be marked as vacant properties. Our approach, as we laid out in the paper, was to trust the City&rsquo;s own determination that a property was vacant.</p>
 
-<p>This raises two questions - why is the City incorrectly identifying vacant properties in tax data, and how can we figure out which ones are vacant and which ones are not? The short answer to both is that we don&rsquo;t know. Given the data we had, there was not a clear way to determine which properties owned by, for example, the <a href="https://en.wikipedia.org/wiki/Terminal_Railroad_Association_of_St._Louis">Terminal Railroad Association</a> were vacant and which were along <em>active</em> railroad right-of-ways. Our upcoming January 2019 estimate of vacancy will take into account this issue with vacant properties, and we hope to have at least a partial solution to identifying these properties even if we are not able to explain why these properties are &ldquo;vacant&rdquo; in the Assessor&rsquo;s Data.</p>
+<p>This raises two questions - why is the City incorrectly identifying vacant properties in tax data, and how can we figure out which ones are vacant and which ones are not? The short answer to both is that we don&rsquo;t know. Our upcoming January 2019 estimate of vacancy will take into account this issue with vacant properties, and we hope to have at least a partial solution to identifying these properties even if we are not able to explain why these properties are &ldquo;vacant&rdquo; in the Assessor&rsquo;s Data.</p>
 
 <p>Another issue is that specific codes within particular data sources, like the demolition permits, are sometimes entered incorrectly. For example, we only used demolition permits that were pulled on the major structure on a given property. However, in the notes for some of these major structure demolition permits, we found that they were applied to a shed or garage incorrectly, or that they only involved the demolition of a porch. Again, we did our best to identify demolition permits that only applied to a major structure, but the permit and inspection data is entered by humans, which means that mistakes are inevitable.</p>
 
@@ -118,7 +118,7 @@ Vacant Land in St. Louis</h1>
 
 <h3 id="how-do-you-think-data-quality-issues-affected-your-estimates">How do you think data quality issues affected your estimates?</h3>
 
-<p>Given what we noted above, it is almost certain that we have false positives in our data and that we also missed vacant properties. We are therefore circumspect when we talk about our data as <em>estimates</em>. Some initial checks regarding the incorrect identification of parcels as vacant by the Assessor&rsquo;s Office suggested to us that it may be biasing our low estimate up by several hundred parcels (out of 32,431). Again, our goal was not to determine a single &ldquo;right&rdquo; number for vacancy but to identify clustering. A change of several hundred parcels, particularly along the major railroad corridor through Downtown, Midtown, and south of Forest Park would not have a significant impact on our statistical models.</p>
+<p>Given what we noted above, it is almost certain that we have false positives in our data and that we also missed vacant properties. We are therefore circumspect when we talk about our data as <em>estimates</em>. Some initial checks regarding the incorrect identification of parcels as vacant by the Assessor&rsquo;s Office suggested to us that it may be biasing our low estimate up by several hundred parcels (out of 32,431). Again, our goal was not to determine a single &ldquo;right&rdquo; number for vacancy but to identify clustering. A change of several hundred parcels, particularly along the major railroad corridor through Downtown, Midtown, and south of Forest Park would not have a significant impact on our statistical models. In the cluster analyses presented in our <a href="/vacancy17">results on this site</a>, these areas of note do not appear as part of higher than average zones of vacancy.</p>
 
 <h3 id="what-is-missing-from-your-data">What is missing from your data?</h3>
 
@@ -182,12 +182,12 @@ Vacant Land in St. Louis</h1>
 </footer>
 
 <!-- Scripts -->
-<script src="https://chris-prener.github.io/vacancy/js/jquery.min.js"></script>
-<script src="https://chris-prener.github.io/vacancy/js/jquery.poptrox.min.js"></script>
-<script src="https://chris-prener.github.io/vacancy/js/skel.min.js"></script>
-<script src="https://chris-prener.github.io/vacancy/js/util.js"></script>
+<script src="/vacancy/js/jquery.min.js"></script>
+<script src="/vacancy/js/jquery.poptrox.min.js"></script>
+<script src="/vacancy/js/skel.min.js"></script>
+<script src="/vacancy/js/util.js"></script>
 
-<script src="https://chris-prener.github.io/vacancy/js/main.js"></script>
+<script src="/vacancy/js/main.js"></script>
 
 
 
